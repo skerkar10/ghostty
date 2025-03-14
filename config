@@ -1,0 +1,20 @@
+font-size = 21
+font-thicken
+font-thicken-strength = 10
+
+theme = "tokyonight_night"
+#background = 000000
+
+title = ""
+window-decoration = false
+
+shell-integration-features = no-cursor,no-sudo,no-title
+cursor-style = bar
+cursor-style-blink = false
+
+cursor-color = #FFFFFF
+cursor-text = #000000
+
+mouse-hide-while-typing
+
+auto-update = "download"
