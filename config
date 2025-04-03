@@ -1,9 +1,11 @@
-font-size = 21
-font-thicken
-font-thicken-strength = 10
+font-family = Iosevka Term
+# font-size = 21
+font-size = 23.5
+# font-thicken
+# font-thicken-strength = 10
 
 theme = "tokyonight_night"
-#background = 000000
+# background = 000000
 
 title = ""
 window-decoration = false
@@ -18,3 +20,7 @@ cursor-text = #000000
 mouse-hide-while-typing
 
 auto-update = "download"
+
+# Transparency
+background-opacity = 0.9
+background-blur = true
