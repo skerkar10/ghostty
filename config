@@ -1,8 +1,9 @@
-font-family = Iosevka Term
-# font-size = 21
-font-size = 23.5
-# font-thicken
-# font-thicken-strength = 10
+# font-family = Fira Code
+font-style-bold = false
+font-style-italic = false
+font-style-bold-italic = false
+# font-size = 23
+font-size = 24
 
 theme = "tokyonight_night"
 # background = 000000
@@ -19,8 +20,10 @@ cursor-text = #000000
 
 mouse-hide-while-typing
 
-auto-update = "download"
+# auto-update = "download"
 
-# Transparency
-background-opacity = 0.9
-background-blur = true
+# quick-terminal-position = right
+# quick-terminal-animation-duration = 0
+
+# Keymaps
+# keybind = cmd+.=toggle_quick_terminal
