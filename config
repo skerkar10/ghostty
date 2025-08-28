@@ -1,10 +1,15 @@
-# font-family = Iosevka Term
+font-family = "Fira Code"
 font-style-bold = false
-font-style-italic = false
 font-style-bold-italic = false
-font-size = 24
+font-style-italic = false
+font-size = 26
 
-theme = "tokyonight_night"
+background = "#000000"
+
+# JBM
+# font-feature = 'zero', -calt, -dlig, -liga
+# Fira Code
+font-feature = -calt, -dlig, -liga, 'ss05'
 
 title = ""
 window-decoration = false
@@ -20,5 +25,7 @@ mouse-hide-while-typing
 
 auto-update = "download"
 
-# Keybinds
+# Keybinds that conflict with my nvim
 keybind = super+n=unbind
+
+confirm-close-surface = false
