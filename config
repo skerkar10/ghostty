@@ -1,15 +1,12 @@
-font-family = "Fira Code"
 font-style-bold = false
 font-style-bold-italic = false
-font-style-italic = false
 font-size = 26
 
-background = "#000000"
+theme = Catppuccin Mocha
+# background = "#000000"
 
 # JBM
-# font-feature = 'zero', -calt, -dlig, -liga
-# Fira Code
-font-feature = -calt, -dlig, -liga, 'ss05'
+font-feature = 'zero', -calt, -dlig, -liga
 
 title = ""
 window-decoration = false
