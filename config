@@ -1,12 +1,9 @@
-font-style-bold = false
-font-style-bold-italic = false
-font-size = 26
+font-family = "Iosevka Term"
+font-size = 28
 
-theme = Catppuccin Mocha
-# background = "#000000"
+theme = Gruvbox Material Dark
 
-# JBM
-font-feature = 'zero', -calt, -dlig, -liga
+font-feature = "VSAB" 3, -liga, -dlig, -calt
 
 title = ""
 window-decoration = false
@@ -22,7 +19,6 @@ mouse-hide-while-typing
 
 auto-update = "download"
 
-# Keybinds that conflict with my nvim
 keybind = super+n=unbind
 
 confirm-close-surface = false
