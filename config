@@ -1,15 +1,20 @@
-font-family = "Iosevka Term"
-font-size = 28
+# Fira Code
+font-family = "Fira Code"
+font-family-bold = "Fira Code Semibold"
+font-size = 27
 
-theme = Gruvbox Material Dark
+# Disable ligatures
+font-feature = -liga, -dlig, -calt
 
-font-feature = "VSAB" 3, -liga, -dlig, -calt
+theme = Duskfox
+# theme = Catppuccin Mocha
+# background = #141415
 
 title = ""
 window-decoration = false
 
 shell-integration-features = no-cursor,no-sudo,no-title
-cursor-style = block
+cursor-style = bar
 cursor-style-blink = false
 
 cursor-color = #FFFFFF
